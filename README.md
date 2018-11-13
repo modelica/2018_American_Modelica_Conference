@@ -39,7 +39,7 @@
 - Miguel Aguilera, Luigi Vanfretti, Francisco Gómez and Tetiana Bogodorova (Rensselaer Polytechnic Institute)
 - Presentation: [(here)]()
 
-3. Analysing the stability of an islanded hydro-electric power system (4)
+3. Analysing the stability of an Islanded hydro-electric power system (4)
 - 	Dietmar Winkler (University of South-Eastern Norway)
 - Presentation: [(here)]()
 
@@ -96,12 +96,55 @@
 - Presentation: [(here)]()
 
 17. Modelica language – a promising tool for publishing and sharing biomedical models (21)
+- Jiří Kofránek, Filip Ježek and Marek Mateják (Charles University)
+- Presentation: [(here)]()
 
-- Drilling Library: A Modelica library for the simulation of well construction (26)
+18. A Safe Regression Test Selection Technique for Modelica (22)
+- Niklas Fors, Jon Sten, Markus Olsson and Filip Stenström (Lund University)
+- Presentation: [(here)]()
+
+19. A Modelica Library for Spacecraft Thermal Analysis (24)
+- Tobias Posielek (German Aerospace Center)
+- Presentation: [(here)]()
+
+20. Drilling Library: A Modelica library for the simulation of well construction (26)
 - Reza Dadfar, Stéphane Velut, Per-Ola Larsson, Mathias Strandberg, Håkan Runvik, Johan Windahl, Pål Kittilsen, John-Morten Godhavn and Åsmund Hjulstad
 - Presentation: [(here)]()
 
-- Dirt Late Model Race Car Simulations with Dymola / Modelica (27)
+21. Dirt Late Model Race Car Simulations with Dymola / Modelica (27)
 - Nate Horn (Claytex USA Inc)
 - Presentation: [(here)]()
+
+22. The OpenModelica Integrated Modeling, Simulation, and Optimization Environment (29)
+- Adrian Pop (Linköping University)
+- Presentation: [(here)]()
+
+23. Functional Mock-up Interface: An empirical survey identifies research challenges and current barriers (30)
+- Geral Schweiger (Graz University of Technology)
+- Presentation: [(here)]()
+
+24. Modelica On The Web (31)
+- Tamas Kecskes, Patrik Meijer, Janos Sztipanovits, Peter Fritzson, Adrian Pop and Arunkumar Palanisamy (Vanderbilt University and Linköping University)
+- Presentation: [(here)]()
+
+25. Development and Implementation of a Flexible Model Architecture for Hybrid-Electric Aircraft (32)
+- John Batteh, Jesse Gohl, Michael Sielemann, Peter Sundstrom, Ivar Torstensson, Natesa MacRae and Patrick Zdunich (Modelon Inc. and National Reserach Council Canada)
+- WAITING FOR THE PRESENTATION
+
+26. Refrigerant Properties in Vapor Compression Cycles Using Spline-Based Table Look-Up Method (SBTL) (33)
+- Lixiang Li, Jesse Gohl, John Batteh, Christopher Greiner and Kai Wang (Modelon Inc. and Ford Motor Company)
+- Presentation: [(here)]()
+
+27. Developing a Framework for Modeling Underwater Vehicles in Modelica (34)
+- Shashank Swaminathan and Srikanth Saripalli (Texas A&M University and Frank W. Olin College of Engineering)
+- Presentation: [(here)]()
+
+28. On Closure Relations for Dynamic Vapor Compression Cycle Models (38)
+- Christopher Laughman and Hongtao Qiao (MERL)
+- WAITING FOR THE PRESENTATION
+
+29. Virtual Commissioning and Dynamic Systems Modeling of Complex Systems Using Modelica and ControlBuild Co-simulation
+-
+-
+
 
