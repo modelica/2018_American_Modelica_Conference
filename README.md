@@ -85,7 +85,7 @@
 
 14. Component-Based 3D Modeling of Dynamic Systems (17)
 - Andrea Neumayr and Martin Otter (DLR, Institute of System Dynamics and Control)
--wAITING FOR RESPONSE
+- WAITING FOR RESPONSE
 
 15. ModestPy: An Open-Source Python Tool for Parameter Estimation in Functional Mock-up Units (18)
 - Krzysztof Arendt, Muhyiddine Jradi, Michael Wetter and Christian Veje (	Center for Energy Informatics, University of Southern Denmark)
