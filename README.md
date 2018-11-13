@@ -1,6 +1,6 @@
 # 1st American Modelica Conference 2018
 
-- Facilitated through: 
+- Facilitated through: Modelica Association and Linköping University
 - October 9-10 Samberg Conference Center, Cambridge, MA, USA
 
 # Citation
