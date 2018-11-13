@@ -1,4 +1,5 @@
 # 1st American Modelica Conference 2018
+<img src="https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/NAMUGPresentations.jpg" alt="Opening" width="403" height="302">
 
 - Facilitated through: Modelica Association and Linköping University
 - October 9-10 Samberg Conference Center, Cambridge, MA, USA
