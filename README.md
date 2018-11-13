@@ -76,7 +76,7 @@
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_14.pdf)
 
 12. Modeling of PMU-Based Islanded Operation Controls for Power Distribution Networks using Modelica and OpenIPSL (15)
--Biswarup Mukherjee and Luigi Vanfretti (Rensselaer Polytechnic Institute)
+- Biswarup Mukherjee and Luigi Vanfretti (Rensselaer Polytechnic Institute)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_15.pdf)
 
 13. Investigation of fuel reduction potential of a capacity controlled HVAC system for buses using virtual test drives (16)
