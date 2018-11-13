@@ -22,7 +22,7 @@
 - James LeMoine, Vick Lakhian and Jim Cotton (McMaster University)
 - Presentation: [(here)]()
 
-4. Modeling and Control of the IRIS IPWR in a HighRenewables Grid Using TRANSFORM
+4. Modeling and Control of the IRIS IPWR in a HighRenewables Grid Using TRANSFORM (44)
 - Richard Bisson and Jamie Coble (University of Tennessee, Knoxville)
 - Presentation: [(here)]()
 
@@ -71,11 +71,31 @@
 - Michael Wetter, Milica Grahovac and Jianjun Hu (Lawrence Berkeley National Laboratory)
 - Presentation: [(here)]()
 
-11. 
-
-- Hybridisation and splitting of a crank angle resolved internal combustion engine model using a mean value intake for real-time performance (14)
+11. Hybridisation and splitting of a crank angle resolved internal combustion engine model using a mean value intake for real-time performance (14)
 - Xiaoran Han, Alessandro Picarelli, Mike Dempsey and Romain Gillot (Claytex Services Limited)
 - Presentation: [(here)]()
+
+12. Modeling of PMU-Based Islanded Operation Controls for Power Distribution Networks using Modelica and OpenIPSL (15)
+-Biswarup Mukherjee and Luigi Vanfretti (Rensselaer Polytechnic Institute)
+- Presentation: [(here)]()
+
+13. Investigation of fuel reduction potential of a capacity controlled HVAC system for buses using virtual test drives (16)
+- Christian Kaiser, Sebastian Meise, Wilhelm Tegethoff and Jürgen Köhler
+- CHECK PRESENTATION IT IS WRONG IN DOCUMENTS
+
+14. Component-Based 3D Modeling of Dynamic Systems (17)
+- Andrea Neumayr and Martin Otter (DLR, Institute of System Dynamics and Control)
+-wAITING FOR RESPONSE
+
+15. ModestPy: An Open-Source Python Tool for Parameter Estimation in Functional Mock-up Units (18)
+- Krzysztof Arendt, Muhyiddine Jradi, Michael Wetter and Christian Veje (	Center for Energy Informatics, University of Southern Denmark)
+- Presentation: [(here)]()
+
+16. A Modelica Library for Thin-Layer Drying of Agricultural Products (20)
+- Augusto Souza, Brian Steward and Carl Bern (Iowa State University)
+- Presentation: [(here)]()
+
+17. Modelica language – a promising tool for publishing and sharing biomedical models (21)
 
 - Drilling Library: A Modelica library for the simulation of well construction (26)
 - Reza Dadfar, Stéphane Velut, Per-Ola Larsson, Mathias Strandberg, Håkan Runvik, Johan Windahl, Pål Kittilsen, John-Morten Godhavn and Åsmund Hjulstad
