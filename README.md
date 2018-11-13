@@ -143,8 +143,10 @@
 - Christopher Laughman and Hongtao Qiao (MERL)
 - WAITING FOR THE PRESENTATION
 
-29. Virtual Commissioning and Dynamic Systems Modeling of Complex Systems Using Modelica and ControlBuild Co-simulation
--
--
+29. Virtual Commissioning and Dynamic Systems Modeling of Complex Systems Using Modelica and ControlBuild Co-simulation (40)
+- Behnam Afsharpoya, Damien Marchand and Franck Corbier (Dassault Systemes)
+- WAITING FOR THE PRESENTATION
+
+
 
 
