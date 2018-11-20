@@ -32,8 +32,18 @@
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_44.pdf)
 
 6. An Industrial Model Based Development Systems Engineering Strategy
-- Johan Åkesson, Kristian Tuszynski, and Clas Jacobson (Modelon Inc. and CCS)
+- Trevor Bailey, Larry Biegler, John Cassidy, Bryan Eisenhower,
+Degang Fu, Clas A. Jacobson, Carl Laird, Kevin Otto,
+Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Carrier%20Modelon%20Modelica%20Conference%20Cambridge%20October%2010%202018%20FINAL.pdf)
+
+7. Single Pipe Design for Integrated Community Energy Systems
+- Ryan Rogers and James Cotton (McMaster University)
+- Presentation: WAITING FOR IT
+
+8. Using SystemModeler and Modelica to Rapidly Build and Verify Hardware Control Systems
+- Neil Singer and Kenneth Pasch (AC Kinetics)
+- Presentation: WAITING FOR IT
 
 ## Vendor Presentations
 
