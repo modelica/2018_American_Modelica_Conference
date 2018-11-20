@@ -31,7 +31,10 @@
 - Richard Bisson and Jamie Coble (University of Tennessee, Knoxville)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_44.pdf)
 
-6.
+6. An Industrial Model Based Development Systems Engineering Strategy
+- Johan Åkesson, Kristian Tuszynski, and Clas Jacobson (Modelon Inc. and CCS)
+- Presentation: [(here)]
+(https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_2.pdf)
 
 ## Vendor Presentations
 
