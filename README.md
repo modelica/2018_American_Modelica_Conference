@@ -17,7 +17,7 @@
 
 2. OpenModelica API for Accessing Modelica Models From Julia (10)
 - Bernt Lie, Arunkumar Palanisamy, Alachew Mengist, Lena Buffoni, Martin Sjölund, Adeel Asghar, Adrian Pop and Peter Fritzson (University of Sout-Eastern Norway)
--   Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_10.pdf)
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_10.pdf)
 
 3. Single Pipe Design for Integrated Community Energy Systems (41)
 - Ryan Rogers and Vickram Lakhian (McMaster University)
@@ -33,8 +33,7 @@
 
 6. An Industrial Model Based Development Systems Engineering Strategy
 - Johan Åkesson, Kristian Tuszynski, and Clas Jacobson (Modelon Inc. and CCS)
-- Presentation: [(here)]
-(https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_2.pdf)
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Carrier%20Modelon%20Modelica%20Conference%20Cambridge%20October%2010%202018%20FINAL.pdf)
 
 ## Vendor Presentations
 
