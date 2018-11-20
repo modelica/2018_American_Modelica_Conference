@@ -13,7 +13,7 @@
 
 1. Evaluation of the impact of post-combustion CO2 capture on power plant performance: Dynamic model of a 725 MW Combined Cycle Gas Turbine Power Plant with a CO2 post-combustion capture unit (2)
 - Baligh El Hefni and Eric Joos (EDF)
-- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_2.pdf)
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica2018US_Presentations_2.pdf)
 
 2. OpenModelica API for Accessing Modelica Models From Julia (10)
 - Bernt Lie, Arunkumar Palanisamy, Alachew Mengist, Lena Buffoni, Martin Sjölund, Adeel Asghar, Adrian Pop and Peter Fritzson (University of Sout-Eastern Norway)
