@@ -1,8 +1,11 @@
-# 1st American Modelica Conference 2018
+# Presenations from the American Modelica Conference 2018
 <img src="https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/NAMUGPresentations.jpg" alt="Opening" width="403" height="302">
 
-- Facilitated through: Modelica Association and Linköping University
-- October 9-10 Samberg Conference Center, Cambridge, MA, USA
+- Conference Website: [American Modelica Conference 2018](- October 9-10 [Samberg Conference Center](https://sambergconferencecenter.mit.edu/about-center/), Cambridge, MA, USA)
+- Date and Venue: October 9-10, [Samberg Conference Center](https://sambergconferencecenter.mit.edu/about-center/), Cambridge, MA, USA
+- Facilitated through: [Modelica Association](http://modelica.org) and [Linköping University](https://www.ida.liu.se/~petfr27/)
+- Organized by the North American Modelica Users Group, [NAMUG](http://na.modelica-users.org)
+- Edited by [Luigi Vanfretti](https://github.com/lvanfretti), assisted by [Manuel Navarro Catalán](https://github.com/ManuelNvro).
 
 # Citation
 
@@ -39,17 +42,14 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 7. Single Pipe Design for Integrated Community Energy Systems
 - Ryan Rogers and James Cotton (McMaster University)
-- Presentation: WAITING FOR IT
+- Presentation: pending.
 
 8. Using SystemModeler and Modelica to Rapidly Build and Verify Hardware Control Systems
 - Neil Singer and Kenneth Pasch (AC Kinetics)
-- Presentation: WAITING FOR IT
-
-## Vendor Presentations
+- Presentation: pending.
 
 
 ## Full Paper Presentations
-
 
 1. Coalesced Gas Turbine and Power System Modeling and Simulation using Modelica (3)
 - Miguel Aguilera, Luigi Vanfretti, Francisco Gómez and Tetiana Bogodorova (Rensselaer Polytechnic Institute)
@@ -60,12 +60,12 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_4.pdf)
 
 3. Exergy Analysis of Thermofluid Energy Conversion Systems in Model-Based Design Environment (5)
-- Daniel Bender (German Aerospace Center (DLR)
-- MISSING MUST WAIT
+- Daniel Bender (German Aerospace Center (DLR))
+- Presentation: pending.
 
 4. Modelica library for the systems engineering of railway brakes (6)
-- Marc Ehret (German Aero Space Center - Insitute of System Dynamics and Control)
-- MISSING MUST EMAIL
+- Marc Ehret (German Aero Space Center (DLR))
+- Presentation: pending.
 
 5. Molten Salt–Fueled Nuclear Reactor Model for Licensing and Safeguards Investigations (7)
 - Scott Greenwood (Oak Ridge National Laboratory)
@@ -100,8 +100,8 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_16.pdf)
 
 13. Component-Based 3D Modeling of Dynamic Systems (17)
-- Andrea Neumayr and Martin Otter (DLR, Institute of System Dynamics and Control)
-- WAITING FOR RESPONSE
+- Andrea Neumayr and Martin Otter (German Aerospace Center (DLR))
+- Presentation: pending.
 
 14. ModestPy: An Open-Source Python Tool for Parameter Estimation in Functional Mock-up Units (18)
 - Krzysztof Arendt, Muhyiddine Jradi, Michael Wetter and Christian Veje (	Center for Energy Informatics, University of Southern Denmark)
@@ -120,7 +120,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_22.pdf)
 
 18. A Modelica Library for Spacecraft Thermal Analysis (24)
-- Tobias Posielek (German Aerospace Center)
+- Tobias Posielek (German Aerospace Center (DLR))
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_24.pdf)
 
 19. Drilling Library: A Modelica library for the simulation of well construction (26)
@@ -145,7 +145,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 24. Development and Implementation of a Flexible Model Architecture for Hybrid-Electric Aircraft (32)
 - John Batteh, Jesse Gohl, Michael Sielemann, Peter Sundstrom, Ivar Torstensson, Natesa MacRae and Patrick Zdunich (Modelon Inc. and National Reserach Council Canada)
-- WAITING FOR THE PRESENTATION
+- Presentation: pending.
 
 25. Refrigerant Properties in Vapor Compression Cycles Using Spline-Based Table Look-Up Method (SBTL) (33)
 - Lixiang Li, Jesse Gohl, John Batteh, Christopher Greiner and Kai Wang (Modelon Inc. and Ford Motor Company)
@@ -157,11 +157,11 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 27. On Closure Relations for Dynamic Vapor Compression Cycle Models (38)
 - Christopher Laughman and Hongtao Qiao (MERL)
-- WAITING FOR THE PRESENTATION
+- Presentation: pending.
 
 28. Virtual Commissioning and Dynamic Systems Modeling of Complex Systems Using Modelica and ControlBuild Co-simulation (40)
 - Behnam Afsharpoya, Damien Marchand and Franck Corbier (Dassault Systemes)
-- WAITING FOR THE PRESENTATION
+- Presentation: pending.
 
 # Licensing
 
