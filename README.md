@@ -7,8 +7,15 @@
 - Organized by the North American Modelica Users Group, [NAMUG](http://na.modelica-users.org)
 - Edited by [Luigi Vanfretti](https://github.com/lvanfretti), assisted by [Manuel Navarro Catalán](https://github.com/ManuelNvro).
 
-# Citation
-
+# Citation Information
+Title: Proceedings of the American Modelica Conference 2018
+Editors: Dr.  Luigi  Vanfretti  and  Dr.  Hubertus  Tummescheit
+Conference Location: Cambridge, MA, USA
+Date: October 9-10, 2018
+ISBN: 978-91-7685-148-7
+Series: Linköping Electronic Conference Proceedings No. 154
+ISSN: 1650-3686
+eISSN: 1650-3740
 
 # Presentations
 
