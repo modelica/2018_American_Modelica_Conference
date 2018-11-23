@@ -1,7 +1,7 @@
 # Presenations from the American Modelica Conference 2018
 <img src="https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/NAMUGPresentations.jpg" alt="Opening" width="403" height="302">
 
-- Conference Website: [American Modelica Conference 2018](- October 9-10 [Samberg Conference Center](https://sambergconferencecenter.mit.edu/about-center/), Cambridge, MA, USA)
+- Conference Website: [American Modelica Conference 2018](https://www.modelica.org/events/modelica2018Americas), October 9-10 [Samberg Conference Center](https://sambergconferencecenter.mit.edu/about-center/), Cambridge, MA, USA)
 - Date and Venue: October 9-10, [Samberg Conference Center](https://sambergconferencecenter.mit.edu/about-center/), Cambridge, MA, USA
 - Facilitated through: [Modelica Association](http://modelica.org) and [Linköping University](https://www.ida.liu.se/~petfr27/)
 - Organized by the North American Modelica Users Group, [NAMUG](http://na.modelica-users.org)
