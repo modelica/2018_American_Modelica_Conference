@@ -1,5 +1,5 @@
 &nbsp; 
-<img src="https://www.modelica.org/events/modelica2014/images/copy_of_2018AmericanModelicaConferenceLogo.png" alt="Opening">
+<img src="https://www.modelica.org/events/modelica2014/images/copy_of_2018AmericanModelicaConferenceLogo.png/image_mini" alt="Opening">
 &nbsp;  
 
 # Presenations from the American Modelica Conference 2018
