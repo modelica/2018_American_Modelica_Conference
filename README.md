@@ -1,3 +1,5 @@
+&nbsp; 
+&nbsp;  
 # Presenations from the American Modelica Conference 2018
 <img src="https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/AMCONF_2018.png" alt="Opening">
 
