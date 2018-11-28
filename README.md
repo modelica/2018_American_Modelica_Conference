@@ -51,7 +51,10 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 8. Using SystemModeler and Modelica to Rapidly Build and Verify Hardware Control Systems
 - Neil Singer and Kenneth Pasch (AC Kinetics)
-- Presentation: pending.
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica%20Conference%202018%20Singer.pdf)
+
+- Mathematica Notebook: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica%20Conference%202018%20Singer.nb)
+
 
 
 ## Full Paper Presentations
