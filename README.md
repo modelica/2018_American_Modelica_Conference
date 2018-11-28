@@ -66,7 +66,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 3. Exergy Analysis of Thermofluid Energy Conversion Systems in Model-Based Design Environment
 - Daniel Bender (German Aerospace Center (DLR))
-- Presentation: pending.
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018USPresentations_5.pdf)
 
 4. Modelica library for the systems engineering of railway brakes
 - Marc Ehret (German Aero Space Center (DLR))
