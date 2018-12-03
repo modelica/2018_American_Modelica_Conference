@@ -52,9 +52,8 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 8. Using SystemModeler and Modelica to Rapidly Build and Verify Hardware Control Systems
 - Neil Singer and Kenneth Pasch (AC Kinetics)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica%20Conference%202018%20Singer.pdf)
-
 - Mathematica Notebook: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Modelica%20Conference%202018%20Singer.nb)
-
+- Modelica models: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/User/Singer_Models_ModelicaConference2018.zip)
 
 
 ## Full Paper Presentations
@@ -62,6 +61,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 1. Coalesced Gas Turbine and Power System Modeling and Simulation using Modelica
 - Miguel Aguilera, Luigi Vanfretti, Francisco Gómez and Tetiana Bogodorova (Rensselaer Polytechnic Institute)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_3.pdf)
+- Modelica models: [(here)](https://github.com/ALSETLab/2018_AmericanModelicaConf_PowerGrid_plus_PowerSystems)
 
 2. Analysing the stability of an Islanded hydro-electric power system
 - 	Dietmar Winkler (University of South-Eastern Norway)
@@ -102,8 +102,9 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 11. Modeling of PMU-Based Islanded Operation Controls for Power Distribution Networks using Modelica and OpenIPSL
 - Biswarup Mukherjee and Luigi Vanfretti (Rensselaer Polytechnic Institute)
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_15.pdf)
+- Modelica models: [(here)](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding)
 
-12. Investigation of fuel reduction potential of a capacity controlled HVAC system for buses using virtual test drives (16)
+12. Investigation of fuel reduction potential of a capacity controlled HVAC system for buses using virtual test drives
 - Christian Kaiser, Sebastian Meise, Wilhelm Tegethoff and Jürgen Köhler
 - Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_16.pdf)
 
