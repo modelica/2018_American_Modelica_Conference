@@ -154,7 +154,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 24. Development and Implementation of a Flexible Model Architecture for Hybrid-Electric Aircraft
 - John Batteh, Jesse Gohl, Michael Sielemann, Peter Sundstrom, Ivar Torstensson, Natesa MacRae and Patrick Zdunich (Modelon Inc. and National Reserach Council Canada)
-- Presentation: pending.
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_32.pdf)
 
 25. Refrigerant Properties in Vapor Compression Cycles Using Spline-Based Table Look-Up Method (SBTL)
 - Lixiang Li, Jesse Gohl, John Batteh, Christopher Greiner and Kai Wang (Modelon Inc. and Ford Motor Company)
