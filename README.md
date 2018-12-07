@@ -69,7 +69,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 3. Exergy Analysis of Thermofluid Energy Conversion Systems in Model-Based Design Environment
 - Daniel Bender (German Aerospace Center (DLR))
-- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018USPresentations_5.pdf)
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_5.pdf)
 
 4. Modelica library for the systems engineering of railway brakes
 - Marc Ehret (German Aero Space Center (DLR))
@@ -166,7 +166,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 27. On Closure Relations for Dynamic Vapor Compression Cycle Models
 - Christopher Laughman and Hongtao Qiao (MERL)
-- Presentation: pending.
+- Presentation: [(here)](https://github.com/ALSETLab/2018_American_Modelica_Conference/blob/master/FullPaper/Modelica2018US_Presentations_38.pdf)
 
 28. Virtual Commissioning and Dynamic Systems Modeling of Complex Systems Using Modelica and ControlBuild Co-simulation
 - Behnam Afsharpoya, Damien Marchand and Franck Corbier (Dassault Systemes)
