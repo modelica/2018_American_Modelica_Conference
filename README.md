@@ -174,7 +174,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 
 # Citation Information
 - Title: Proceedings of the 1st American Modelica Conference
-- Editors: Dr.  Luigi  Vanfretti  and  Dr.  Hubertus  Tummescheit
+- Editors: Michael Tiller, Hubertus Tummescheit, and Luigi Vanfretti
 - Conference Location: Cambridge, MA, USA
 - Date: October 9-10, 2018
 - ISBN: 978-91-7685-148-7
