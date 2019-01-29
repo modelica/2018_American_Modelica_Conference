@@ -13,7 +13,7 @@
 - Date and Venue: October 9-10, [Samberg Conference Center](https://sambergconferencecenter.mit.edu/about-center/), Cambridge, MA, USA
 - Facilitated through: [Modelica Association](http://modelica.org) and [Linköping University](https://www.ida.liu.se/~petfr27/)
 - Organized by the North American Modelica Users Group, [NAMUG](http://na.modelica-users.org)
-- Edited by [Luigi Vanfretti](https://github.com/lvanfretti), assisted by [Manuel Navarro Catalán](https://github.com/ManuelNvro).
+- Github repository compiled by [Luigi Vanfretti](https://github.com/lvanfretti), assisted by [Manuel Navarro Catalán](https://github.com/ManuelNvro).
 - Link to conference proceedings: [here](https://www.modelica.org/events/modelica2018Americas/preliminary-program/166522_Modelica_Proceedings_v2.pdf)
 
 # Presentations
