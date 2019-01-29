@@ -173,7 +173,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 - Presentation: pending.
 
 # Citation Information
-- Title: Proceedings of the American Modelica Conference 2018
+- Title: Proceedings of the 1st American Modelica Conference
 - Editors: Dr.  Luigi  Vanfretti  and  Dr.  Hubertus  Tummescheit
 - Conference Location: Cambridge, MA, USA
 - Date: October 9-10, 2018
@@ -181,6 +181,7 @@ Kristian Tuszynski, J. Åkesson (Modelon Inc. and CCS)
 - Series: Linköping Electronic Conference Proceedings No. 154
 - ISSN: 1650-3686
 - eISSN: 1650-3740
+- DOI: 10.3384/ecp18154
 
 # Licensing
 
